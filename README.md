@@ -1,2 +1,3 @@
 # Hyperblog_Platzi_Course
-Git &amp; GitHub Platzi Example
+
+This project is about to learn and use Git and Github
